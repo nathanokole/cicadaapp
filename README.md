@@ -78,7 +78,7 @@ pip install -r requirements.txt
 
 ## Model Weights (`config.yaml`)
 
-Create **`config.yaml`** at the repo root with absolute paths to your checkpoint files which can be downloaded from the URL provided in the `ckpt_download.txt` file:
+Create **`config.yaml`** at the repo root with absolute paths to your checkpoint files:
 
 ```yaml
 M1_MODEL_PATH: "/abs/path/to/m1_checkpoint.pth"
