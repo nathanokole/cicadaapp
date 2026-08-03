@@ -1,1 +1,2 @@
-Download weights from ....
+The model's weights are not openly available.
+Please contact okole@ifz-goettingen.de
